@@ -1,0 +1,513 @@
+,Season,GameId,Stadium,StadiumType,Turf,State,StateAbb
+0,2017,2017090700,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+1144,2017,2017091000,New Era Field,outdoor,Artificial,Orchard Park NY,
+2112,2017,2017091001,Soldier Field,outdoor,Natural,Chicago. IL,
+2948,2017,2017091002,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+4334,2017,2017091003,FirstEnergy,outdoor,Natural,Cleveland,Ohio
+5060,2017,2017091004,Ford Field,indoor,Artificial,Detroit,MI
+5918,2017,2017091005,NRG Stadium,,Artificial,Houston,Texas
+7172,2017,2017091007,Nissan Stadium,outdoor,Natural,Nashville,TN
+8162,2017,2017091008,FedExField,outdoor,Natural,Landover,MD
+8888,2017,2017091009,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+10032,2017,2017091010,Lambeau Field,outdoor,Artificial,Green Bay,WI
+10824,2017,2017091011,Levis Stadium,outdoor,Natural,Santa Clara,CA
+11792,2017,2017091012,AT&T Stadium,indoor,Artificial,Arlington,Texas
+12650,2017,2017091100,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+13728,2017,2017091101,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+14872,2017,2017091400,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+16016,2017,2017091700,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+16962,2017,2017091701,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+17798,2017,2017091702,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+18722,2017,2017091703,Everbank Field,outdoor,Natural,Jacksonville,FL
+19844,2017,2017091704,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+20460,2017,2017091705,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+21472,2017,2017091706,Heinz Field,outdoor,Natural,Pittsburgh,
+22572,2017,2017091707,Raymond James Stadium,outdoor,Natural,Tampa,FL
+23606,2017,2017091708,StubHub Center,,Natural,Carson,CA
+24552,2017,2017091709,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+25608,2017,2017091710,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+26598,2017,2017091711,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+27830,2017,2017091712,CenturyLink Field,outdoor,Artificial,Seattle,WA
+28842,2017,2017091713,Mercedes-Benz Dome,outdoor,Artificial,Atlanta,GA
+29700,2017,2017091800,MetLife Stadium,,Artificial,East Rutherford,NJ
+30734,2017,2017092100,Levis Stadium,outdoor,Natural,Santa Clara,CA
+32120,2017,2017092400,Wembley Stadium,outdoor,Natural,London,England
+33286,2017,2017092401,New Era Field,outdoor,Artificial,Orchard Park NY,
+34254,2017,2017092402,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+35266,2017,2017092403,Soldier Field,outdoor,Natural,Chicago,IL
+36366,2017,2017092404,Ford Field,indoor,Artificial,Detroit,
+37334,2017,2017092405,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+38324,2017,2017092406,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+39160,2017,2017092407,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+40084,2017,2017092408,MetLife Stadium,outdoor,Artificial,East Rutherford,NJ
+41074,2017,2017092409,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+42174,2017,2017092410,Nissan Stadium,outdoor,Natural,Nashville,TN
+43142,2017,2017092411,Lambeau Field,outdoor,Artificial,Green Bay,WI
+44022,2017,2017092412,StubHub Center,,Natural,Carson,CA
+44990,2017,2017092413,FedExField,outdoor,Natural,Landover,MD
+45958,2017,2017092500,University of Phoenix Stadium,,Natural,Glendale,AZ
+46838,2017,2017092800,Lambeau Field,outdoor,Artificial,Green Bay,WI
+47982,2017,2017100100,Wembley Stadium,outdoor,Natural,London,England
+48818,2017,2017100101,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+50050,2017,2017100102,M&T Stadium,outdoor,Natural,Baltimore,Md.
+51282,2017,2017100103,First Energy Stadium,outdoor,Natural,Cleveland,OH
+52118,2017,2017100104,AT&T Stadium,indoor,Artificial,Arlington,Texas
+53284,2017,2017100105,NRG,,Artificial,Houston,Texas
+54384,2017,2017100106,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+55484,2017,2017100107,Gillette Stadium,outdoor,Artificial,Foxborough,Ma
+56342,2017,2017100108,MetLife,outdoor,Artificial,E. Rutherford,NJ
+57794,2017,2017100109,University of Phoenix Stadium,,Natural,Glendale,AZ
+58806,2017,2017100110,StubHub Center,,Natural,Carson,CA
+59862,2017,2017100111,Raymond James Stadium,outdoor,Natural,Tampa,FL
+60830,2017,2017100112,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+61732,2017,2017100113,CenturyLink,outdoor,Artificial,Seattle,WA
+62854,2017,2017100200,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+63800,2017,2017100500,Raymond James Stadium,outdoor,Natural,Tampa,FL
+64658,2017,2017100800,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+65560,2017,2017100801,FirstEnergy Stadium,outdoor,Natural,Cleveland,Ohio
+66374,2017,2017100802,Ford Field,indoor,Artificial,Detroit,
+67166,2017,2017100803,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+68178,2017,2017100804,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+69256,2017,2017100805,MetLife Stadium,,Artificial,East Rutherford,NJ
+70356,2017,2017100806,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+71236,2017,2017100807,Heinz Field,outdoor,Natural,Pittsburgh,
+72446,2017,2017100808,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+73326,2017,2017100809,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+74580,2017,2017100810,AT&T Stadium,indoor,Artificial,Arlington,Texas
+75680,2017,2017100811,NRG Stadium,,Artificial,Houston,TX
+76780,2017,2017100900,Soldier Field,outdoor,Natural,Chicago,IL
+78012,2017,2017101200,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+78782,2017,2017101500,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+79838,2017,2017101501,M&T Stadium,outdoor,Natural,Baltimore,Md.
+81466,2017,2017101502,NRG Stadium,,Artificial,Houston,TX
+82434,2017,2017101503,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+83600,2017,2017101504,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+84656,2017,2017101505,MetLife,outdoor,Artificial,East Rutherford,NJ
+85646,2017,2017101506,FedExField,outdoor,Natural,Landover,MD
+86702,2017,2017101507,University of Phoenix Stadium,,Natural,Glendale,AZ
+87758,2017,2017101508,EverBank Field,outdoor,Natural,Jacksonville,FL
+88902,2017,2017101509,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+89848,2017,2017101510,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+90882,2017,2017101511,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+91894,2017,2017101600,Nissan Stadium,outdoor,Natural,Nashville,TN
+92906,2017,2017101900,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+93830,2017,2017102200,New Era Field,outdoor,Artificial,Orchard Park NY,
+94930,2017,2017102201,Soldier Field,outdoor,Natural,Chicago,IL
+95876,2017,2017102202,FirstEnergy Stadium,outdoor,Natural,Cleveland,Ohio
+97086,2017,2017102203,Lambeau Field,outdoor,Artificial,Green Bay,WI
+98208,2017,2017102204,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+99264,2017,2017102205,Twickenham,outdoor,Natural,London,
+100232,2017,2017102206,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+101200,2017,2017102207,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+102322,2017,2017102208,Heinz Field,outdoor,Natural,Pittsburgh,
+103510,2017,2017102209,Levis Stadium,outdoor,Natural,Santa Clara,CA
+104720,2017,2017102210,StubHub Center,,Natural,Carson,CA
+105666,2017,2017102211,MetLife Stadium,,Artificial,East Rutherford,NJ
+106568,2017,2017102212,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+107668,2017,2017102300,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+108592,2017,2017102600,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+109802,2017,2017102900,Twickenham Stadium,outdoor,Natural,London,England
+110902,2017,2017102901,New Era Field,outdoor,Artificial,Orchard Park NY,
+111892,2017,2017102902,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+112838,2017,2017102903,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+113916,2017,2017102904,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+115082,2017,2017102905,MetLife,outdoor,Artificial,East Rutherford,NJ
+116116,2017,2017102906,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+117106,2017,2017102907,Raymond James Stadium,outdoor,Natural,Tampa,FL
+117986,2017,2017102908,CenturyLink Field,outdoor,Artificial,Seattle,WA
+118932,2017,2017102909,FedExField,outdoor,Natural,Landover,MD
+120032,2017,2017102910,Ford Field,indoor,Artificial,Detroit,
+121066,2017,2017103000,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+122166,2017,2017110200,MetLife,outdoor,Artificial,East Rutherford,NJ
+122782,2017,2017110500,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+123772,2017,2017110501,NRG Stadium,,Artificial,Houston,TX
+124806,2017,2017110502,EverBank Field,outdoor,Natural,Jacksonville,FL
+125884,2017,2017110503,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+126940,2017,2017110504,MetLife Stadium,,Artificial,East Rutherford,NJ
+128326,2017,2017110505,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+129448,2017,2017110506,Nissan Stadium,outdoor,Natural,Nashville,TN
+130306,2017,2017110507,Levis Stadium,outdoor,Natural,Santa Clara,CA
+131472,2017,2017110508,CenturyLink Field,outdoor,Artificial,Seattle,WA
+132352,2017,2017110509,AT&T Stadium,indoor,Artificial,Arlington,Texas
+133276,2017,2017110510,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+134178,2017,2017110600,Lambeau Field,outdoor,Artificial,Green Bay,WI
+135146,2017,2017110900,University of Phoenix Stadium,outdoor,Natural,Glendale,AZ
+136026,2017,2017111200,New Era Field,outdoor,Artificial,Orchard Park NY,
+137192,2017,2017111201,Soldier Field,outdoor,Natural,Chicago,IL
+138270,2017,2017111202,Ford Field,indoor,Artificial,Detroit,MI
+139172,2017,2017111203,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+140338,2017,2017111204,EverBank Field,outdoor,Natural,Jacksonville,FL
+141394,2017,2017111205,Raymond James Stadium,outdoor,Natural,Tampa,FL
+142428,2017,2017111206,Nissan Stadium,outdoor,Natural,Nashville,TN
+143374,2017,2017111207,FedExField,outdoor,Natural,Landover,MD
+144364,2017,2017111208,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+145310,2017,2017111209,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+146388,2017,2017111210,Levis Stadium,outdoor,Natural,Santa Clara,CA
+147488,2017,2017111211,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+148676,2017,2017111300,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+149644,2017,2017111600,Heinz Field,outdoor,Natural,Pittsburgh,
+150370,2017,2017111900,Soldier Field,outdoor,Natural,Chicago,IL
+151294,2017,2017111901,FirstEnergy Stadium,outdoor,Natural,Cleveland,Ohio
+152438,2017,2017111902,Lambeau Field,outdoor,Artificial,Green Bay,WI
+153406,2017,2017111903,NRG Stadium,,Artificial,Houston,TX
+154462,2017,2017111904,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+155474,2017,2017111905,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,La.
+156596,2017,2017111906,MetLife Stadium,,Artificial,East Rutherford,NJ
+157762,2017,2017111907,StubHub Center,,Natural,Carson,CA
+158796,2017,2017111908,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+159962,2017,2017111909,Estadio Azteca,outdoor,Natural,Mexico City,
+160864,2017,2017111910,AT&T Stadium,outdoor,Artificial,Arlington,Texas
+162008,2017,2017111911,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+162866,2017,2017112000,CenturyLink Field,outdoor,Artificial,Seattle,WA
+163812,2017,2017112300,Ford Field,indoor,Artificial,Detroit,
+164890,2017,2017112301,AT&T Stadium,indoor,Artificial,Arlington,Texas
+165946,2017,2017112302,FedExField,outdoor,Natural,Landover,MD
+167068,2017,2017112600,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+168080,2017,2017112601,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+169158,2017,2017112602,Lucas Oil Stadium,outdoor,Artificial,Indianapolis,Ind.
+170148,2017,2017112603,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+171006,2017,2017112604,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+172062,2017,2017112605,MetLife,outdoor,Artificial,East Rutherford,NJ
+173030,2017,2017112606,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+173800,2017,2017112607,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+174636,2017,2017112608,Levis Stadium,outdoor,Natural,Santa Clara,CA
+175494,2017,2017112609,University of Phoenix Stadium,,Natural,Glendale,AZ
+176396,2017,2017112610,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+177430,2017,2017112611,Heinz Field,outdoor,Natural,Pittsburgh,
+178376,2017,2017112700,M & T Bank Stadium,outdoor,Natural,Baltimore,Md.
+179454,2017,2017113000,AT&T Stadium,outdoor,Artificial,Arlington,Texas
+180620,2017,2017120300,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+181676,2017,2017120301,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+182710,2017,2017120302,New Era Field,outdoor,Artificial,Orchard Park NY,
+183832,2017,2017120303,Soldier Field,outdoor,Natural,Chicago,IL
+184800,2017,2017120304,Lambeau Field,outdoor,Artificial,Green Bay,WI
+185966,2017,2017120305,EverBank Field,outdoor,Natural,Jacksonville,FL
+186934,2017,2017120306,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+187902,2017,2017120307,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+188738,2017,2017120308,MetLife,outdoor,Artificial,East Rutherford,NJ
+189838,2017,2017120309,Nissan Stadium,outdoor,Natural,Nashville,TN
+190740,2017,2017120310,StubHub Center,,Natural,Carson,CA
+191620,2017,2017120311,University of Phoenix Stadium,,Natural,Glendale,AZ
+192566,2017,2017120312,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+193622,2017,2017120313,CenturyLink Field,outdoor,Artificial,Seattle,WA
+194480,2017,2017120400,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+195382,2017,2017120700,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+196438,2017,2017121000,New Era Field,outdoor,Artificial,Orchard Park NY,
+198308,2017,2017121001,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+199210,2017,2017121002,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+200266,2017,2017121003,FirstEnergy Stadium,outdoor,Natural,Cleveland,Ohio
+201234,2017,2017121004,NRG Stadium,,Artificial,Houston,TX
+202246,2017,2017121005,Everbank Field,outdoor,Natural,Jacksonville,FL
+203346,2017,2017121006,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+204182,2017,2017121007,Raymond James Stadium,outdoor,Natural,Tampa,FL
+205128,2017,2017121008,University of Phoenix Stadium,,Natural,Glendale,AZ
+206096,2017,2017121009,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+207218,2017,2017121010,StubHub Center,,Natural,Carson,CA
+208384,2017,2017121011,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+209286,2017,2017121012,MetLife Stadium,,Artificial,East Rutherford,NJ
+210474,2017,2017121013,Heinz Field,,Natural,Pittsburgh,
+211376,2017,2017121100,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+212168,2017,2017121400,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+213466,2017,2017121600,Ford Field,indoor,Artificial,Detroit,
+214148,2017,2017121601,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+215270,2017,2017121700,New Era Field,outdoor,Artificial,Orchard Park NY,
+216172,2017,2017121701,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+216986,2017,2017121702,First Energy Stadium,outdoor,Natural,Cleveland,Ohio
+217844,2017,2017121703,Everbank Field,outdoor,Natural,Jacksonville,FL
+219054,2017,2017121704,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+220154,2017,2017121705,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,La.
+221320,2017,2017121706,MetLife Stadium,,Artificial,East Rutherford,NJ
+222376,2017,2017121707,FedExField,outdoor,Natural,Landover,MD
+223410,2017,2017121708,CenturyLink Field,outdoor,Artificial,Seattle,WA
+224598,2017,2017121709,Heinz Field,outdoor,Natural,Pittsburgh,
+225478,2017,2017121710,Levis Stadium,outdoor,Natural,Santa Clara,CA
+226534,2017,2017121711,Oakland Alameda-County Coliseum,outdoor,Natural,Oakland,CA
+227392,2017,2017121800,Raymond James Stadium,outdoor,Natural,Tampa,FL
+228404,2017,2017122300,M&T Stadium,outdoor,Natural,Baltimore,Maryland
+229482,2017,2017122301,Lambeau Field,outdoor,Artificial,Green Bay,WI
+230516,2017,2017122400,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+231352,2017,2017122401,Soldier Field,outdoor,Natural,Chicago,IL
+232188,2017,2017122402,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+233332,2017,2017122403,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+234278,2017,2017122404,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+235466,2017,2017122405,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,La.
+236478,2017,2017122406,MetLife,outdoor,Artificial,East Rutherford,NJ
+237688,2017,2017122407,Nissan Stadium,outdoor,Natural,Nashville,TN
+238722,2017,2017122408,FedExField,outdoor,Natural,Landover,MD
+239800,2017,2017122409,Levis Stadium,outdoor,Natural,Santa Clara,CA
+240988,2017,2017122410,University of Phoenix Stadium,,Natural,Glendale,AZ
+241956,2017,2017122411,AT&T Stadium,indoor,Artificial,Arlington,Texas
+242990,2017,2017122500,NRG Stadium,,Artificial,Houston,TX
+244090,2017,2017122501,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+245212,2017,2017123100,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+246026,2017,2017123101,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+247214,2017,2017123102,Ford Field,indoor,Artificial,Detroit,
+248204,2017,2017123103,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+249436,2017,2017123104,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+250404,2017,2017123105,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+251306,2017,2017123106,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+252406,2017,2017123107,MetLife Stadium,,Artificial,East Rutherford,NJ
+253638,2017,2017123108,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+254628,2017,2017123109,Heinz Field,outdoor,Natural,Pittsburgh,
+255618,2017,2017123110,Raymond James Stadium,outdoor,Natural,Tampa,FL
+256652,2017,2017123111,Nissan Stadium,outdoor,Natural,Nashville,TN
+257818,2017,2017123112,Sports Authority Field at Mile High,outdoor,Natural,Denver,CO
+258830,2017,2017123113,StubHub Center,,Natural,Carson,CA
+259886,2017,2017123114,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+260766,2017,2017123115,CenturyLink Field,outdoor,Artificial,Seattle,WA
+261800,2018,2018090600,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+262724,2018,2018090900,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+263648,2018,2018090901,FirstEnergy Stadium,outdoor,Natural,Cleveland,Ohio
+264990,2018,2018090902,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+265848,2018,2018090903,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+266948,2018,2018090904,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+268070,2018,2018090905,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+269302,2018,2018090906,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+270072,2018,2018090907,MetLife Stadium,,Artificial,East Rutherford,NJ
+271062,2018,2018090908,StubHub Center,,Natural,Carson,CA
+271986,2018,2018090909,State Farm Stadium,,Natural,Glendale,AZ
+272998,2018,2018090910,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+273746,2018,2018090911,Broncos Stadium At Mile High,outdoor,Natural,Denver,CO
+274736,2018,2018090912,Lambeau Field,outdoor,Artificial,Green Bay,WI
+275528,2018,2018091000,Ford Field,indoor,Artificial,Detroit,MI
+276474,2018,2018091001,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+277486,2018,2018091300,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+278476,2018,2018091600,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+279334,2018,2018091601,New Era Field,outdoor,Artificial,Orchard Park NY,
+280148,2018,2018091602,Lambeau Field,outdoor,Artificial,Green Bay,WI
+280962,2018,2018091603,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+281930,2018,2018091604,MetLife Stadium,outdoor,Artificial,East Rutherford,NJ
+282832,2018,2018091605,Heinz Field,outdoor,Natural,Pittsburgh,
+283514,2018,2018091606,Raymond James Stadium,outdoor,Natural,Tampa,FL
+284438,2018,2018091607,Nissan Stadium,outdoor,Natural,Nashville,TN
+285516,2018,2018091608,FedExField,outdoor,Natural,Landover,MD
+286440,2018,2018091609,Los Angeles Memorial Coliesum,outdoor,Natural,Los Angeles,Calif.
+287452,2018,2018091610,Levis Stadium,outdoor,Natural,Santa Clara,CA
+288398,2018,2018091611,Broncos Stadium at Mile High,outdoor,Natural,Denver,CO
+289520,2018,2018091612,TIAA Bank Field,outdoor,Natural,Jacksonville,FL
+290356,2018,2018091613,AT&T Stadium,indoor,Artificial,Arlington,TX
+291060,2018,2018091700,Soldier Field,outdoor,Natural,Chicago,IL
+291940,2018,2018092000,FirstEnergy Stadium,outdoor,Natural,Cleveland,Ohio
+293194,2018,2018092300,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+294074,2018,2018092301,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+294932,2018,2018092302,Bank of America Stadium,outdoor,Natural,Charlotte,North Carolina
+295900,2018,2018092303,NRG Stadium,,Artificial,Houston,TX
+296758,2018,2018092304,TIAA Bank Field,outdoor,Natural,Jacksonville,Fl
+297660,2018,2018092305,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+298738,2018,2018092306,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+299640,2018,2018092307,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+300344,2018,2018092308,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+301312,2018,2018092309,FedExField,outdoor,Natural,Landover,MD
+302258,2018,2018092310,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+303402,2018,2018092311,State Farm Stadium,,Natural,Glendale,AZ
+304392,2018,2018092312,CenturyLink Field,outdoor,Artificial,Seattle,WA
+305602,2018,2018092313,Ford Field,indoor,Artificial,Detroit,MI
+306702,2018,2018092400,Raymond James Stadium,outdoor,Natural,Tampa,FL
+307318,2018,2018092700,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+308000,2018,2018093000,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+308946,2018,2018093001,Soldier Field,outdoor,Natural,Chicago,IL
+309892,2018,2018093002,AT&T Stadium,indoor,Artificial,Arlington,Texas
+310992,2018,2018093003,Lambeau Field,outdoor,Artificial,Green Bay,WI
+311828,2018,2018093004,Lucas Oil Stadium,outdoor,Artificial,Indianapolis,Ind.
+312708,2018,2018093005,TIAA Bank Field,outdoor,Natural,Jacksonville,Florida
+313610,2018,2018093006,Gillette Stadium,outdoor,Artificial,Foxborough,Ma
+314776,2018,2018093007,Nissan Stadium,outdoor,Natural,Nashville,TN
+315502,2018,2018093008,State Farm Stadium,,Natural,Glendale,AZ
+316734,2018,2018093009,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+317922,2018,2018093010,StubHub Center,,Natural,Carson,CA
+318758,2018,2018093011,MetLife Stadium,,Artificial,East Rutherford,NJ
+319594,2018,2018093012,Heinz Field,outdoor,Natural,Pittsburgh,PA
+320342,2018,2018100100,Broncos Stadium at Mile High,outdoor,Natural,Denver,CO
+321310,2018,2018100400,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+322212,2018,2018100700,New Era Field,outdoor,Artificial,Orchard Park NY,
+323554,2018,2018100701,Bank of America Stadium,outdoor,Natural,Charlotte,NC
+324390,2018,2018100702,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+325292,2018,2018100703,FirstEnergy Stadium,outdoor,Natural,"Cleveland,Ohio",
+326282,2018,2018100704,Ford Field,indoor,Artificial,Detroit,
+327250,2018,2018100705,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+328130,2018,2018100706,MetLife Stadium,outdoor,Artificial,East Rutherford,N.J.
+329274,2018,2018100707,Heinz Field,outdoor,Natural,Pittsburgh,
+330242,2018,2018100708,StubHub Center,,Natural,Carson,CA
+331122,2018,2018100709,Lincoln Financial Field,outdoor,Natural,Philadelphia,PA
+331782,2018,2018100710,Levis Stadium,outdoor,Natural,Santa Clara,CA
+332926,2018,2018100711,CenturyField,outdoor,Artificial,Seattle,
+334180,2018,2018100712,NRG Stadium,,Artificial,Houston,TX
+335148,2018,2018100800,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+335984,2018,2018101100,MetLife Stadium,,Artificial,East Rutherford,NJ
+336996,2018,2018101400,Mercedes-Benz Stadium,outdoor,Artificial,Atlanta,GA
+337766,2018,2018101401,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+338492,2018,2018101402,FirstEnergyStadium,outdoor,Natural,Cleveland Ohio,
+339658,2018,2018101403,NRG Stadium,,Artificial,Houston,Texas
+340626,2018,2018101404,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+341770,2018,2018101405,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+342804,2018,2018101406,MetLife,outdoor,Artificial,East Rutherford,NJ
+343904,2018,2018101407,Wembley Stadium,outdoor,Natural,London,England
+344894,2018,2018101408,FedExField,outdoor,Natural,Landover,MD
+345532,2018,2018101409,Broncos Stadium at Mile High,outdoor,Natural,Denver,CO
+346632,2018,2018101410,AT&T Stadium,indoor,Artificial,Arlington,Texas
+347622,2018,2018101411,Nissan Stadium,outdoor,Natural,Nashville,TN
+348546,2018,2018101412,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+349646,2018,2018101500,Lambeau Field,outdoor,Artificial,Green Bay,WI
+350614,2018,2018101800,State Farm Stadium,,Natural,Glendale,AZ
+351648,2018,2018102100,Wembley Stadium,outdoor,Natural,London,England
+352550,2018,2018102101,M&T Stadium,outdoor,Natural,Baltimore,Md.
+353628,2018,2018102102,Soldier Field,outdoor,Natural,Chicago,IL
+354596,2018,2018102103,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+355718,2018,2018102104,TIAA Bank Field,,Natural,Jacksonville,FL
+356686,2018,2018102105,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+357610,2018,2018102106,Hard Rock Stadium,outdoor,Natural,Miami Gardens,FLA
+358688,2018,2018102107,MetLife,outdoor,Artificial,East Rutherford,N.J.
+359568,2018,2018102108,Lincoln Financial Field,outdoor,Natural,Philadelphia,PA
+360228,2018,2018102109,Raymond James Stadium,outdoor,Natural,Tampa,FL
+361130,2018,2018102110,FedExField,outdoor,Natural,Landover,MD
+362098,2018,2018102111,Levis Stadium,outdoor,Natural,Santa Clara,CA
+363242,2018,2018102200,Mercedes-Benz Stadium,outdoor,Artificial,Atlanta,GA
+364012,2018,2018102500,NRG,,Artificial,Houston,Texas
+365266,2018,2018102800,Wembley Stadium,outdoor,Natural,London,England
+365948,2018,2018102801,Bank of America Stadium,outdoor,Natural,Charlotte,NC
+366652,2018,2018102802,Soldier Field,outdoor,Natural,Chicago,IL
+367664,2018,2018102803,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+368698,2018,2018102804,Ford Field,indoor,Artificial,Detroit,
+369820,2018,2018102805,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+370810,2018,2018102806,MetLife Stadium,,Artificial,East Rutherford,NJ
+371778,2018,2018102807,Heinz Field,outdoor,Natural,Pittsburgh,
+372834,2018,2018102808,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+374044,2018,2018102809,State Farm Stadium,,Natural,Glendale,AZ
+375034,2018,2018102810,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+376068,2018,2018102811,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+377102,2018,2018102900,New Era Field,outdoor,Artificial,Orchard Park,NY
+377850,2018,2018110100,Levis Stadium,outdoor,Natural,Santa Clara,CA
+378906,2018,2018110400,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+379698,2018,2018110401,New Era Field,outdoor,Artificial,Orchard Park NY,
+380534,2018,2018110402,Bank of America Stadium,outdoor,Natural,Charlotte,NC
+381348,2018,2018110403,FirstEnergy,outdoor,Natural,Cleveland,
+382382,2018,2018110404,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+383350,2018,2018110405,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+384230,2018,2018110406,FedExField,outdoor,Natural,Landover,MD
+385066,2018,2018110407,Broncos Stadium at Mile High,outdoor,Natural,Denver,CO
+386100,2018,2018110408,CenturyLink Field,outdoor,Artificial,Seattle,
+387178,2018,2018110409,Mercedes-Benz Superdome,indoor,Artificial,New Orleans,LA
+388124,2018,2018110410,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+389158,2018,2018110500,AT&T Stadium,indoor,Artificial,Arlington,Texas
+390126,2018,2018110800,Heinz Field,outdoor,Natural,Pittsburgh,
+391094,2018,2018111100,Soldier Field,outdoor,Natural,Chicago,IL
+391996,2018,2018111101,Paul Brown Stadium,outdoor,Artificial,Cincinnati,Ohio
+393118,2018,2018111102,FirstEnergy,outdoor,Natural,"Cleveland,Ohio",
+393954,2018,2018111103,Lambeau Field,outdoor,Artificial,Green Bay,WI
+394812,2018,2018111104,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+395912,2018,2018111105,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+396858,2018,2018111106,MetLife,outdoor,Artificial,East Rutherford,NJ
+398178,2018,2018111107,Raymond James Stadium,outdoor,Natural,Tampa,FL
+399036,2018,2018111108,Nissan Stadium,outdoor,Natural,Nashville,TN
+400158,2018,2018111109,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+401126,2018,2018111110,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+402116,2018,2018111111,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+402886,2018,2018111200,Levis Stadium,outdoor,Natural,Santa Clara,CA
+403986,2018,2018111500,CenturyLink Field,outdoor,Artificial,Seattle,WA
+404910,2018,2018111800,Mercedes-Benz Stadium,outdoor,Artificial,Atlanta,GA
+405834,2018,2018111801,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+406758,2018,2018111802,Soldier Field,outdoor,Natural,Chicago,IL
+407682,2018,2018111803,Ford Field,indoor,Artificial,Detroit,
+408496,2018,2018111804,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+409486,2018,2018111805,MetLife Stadium,,Artificial,East Rutherford,NJ
+410608,2018,2018111806,FedExField,outdoor,Natural,Landover,MD
+411664,2018,2018111807,State Farm Stadium,,Natural,Glendale,AZ
+413050,2018,2018111808,StubHub Center,,Natural,Carson,CA
+413952,2018,2018111809,Mercedes-Benz Superdome,,Artificial,New Orleans,LA
+414898,2018,2018111810,TIAA Bank Field,outdoor,Natural,Jacksonville,FL
+415998,2018,2018111900,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+416680,2018,2018112200,Ford Field,indoor,Artificial,Detroit,MI
+417450,2018,2018112201,AT&T Stadium,indoor,Artificial,Arlington,Texas
+418396,2018,2018112202,Mercedes-Benz Superdome,,Artificial,New Orleans,LA
+419232,2018,2018112500,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+420332,2018,2018112501,New Era Field,outdoor,Artificial,Orchard Park NY,
+421542,2018,2018112502,Bank of America Stadium,outdoor,Natural,Charlotte,NC
+422488,2018,2018112503,Paul Brown Stadium,outdoor,Artificial,Cincinnati,OH
+423500,2018,2018112504,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+424512,2018,2018112505,MetLife,outdoor,Artificial,East Rutherford,NJ
+425524,2018,2018112506,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+426492,2018,2018112507,Raymond James Stadium,outdoor,Natural,Tampa,FL
+427504,2018,2018112508,StubHub Center,,Natural,Carson,CA
+428560,2018,2018112509,Broncos Stadium at Mile High,outdoor,Natural,Denver,CO
+429308,2018,2018112510,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+430232,2018,2018112600,NRG,,Artificial,Houston,Texas
+431090,2018,2018112900,AT&T Stadium,indoor,Artificial,Arlington,Texas
+432058,2018,2018120200,Mercedes-Benz Stadium,outdoor,Artificial,Atlanta,GA
+433048,2018,2018120201,Paul Brown Stdium,outdoor,Artificial,Cincinnati,Ohio
+434192,2018,2018120202,Ford Field,indoor,Artificial,Detroit,
+435336,2018,2018120203,Lambeau field,outdoor,Artificial,Green Bay,WI
+436348,2018,2018120204,NRG Stadium,,Artificial,Houston,TX
+437206,2018,2018120205,TIAA Bank Field,,Natural,Jacksonville,FL
+437976,2018,2018120206,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+438856,2018,2018120207,MetLife Stadium,,Artificial,East Rutherford,NJ
+440110,2018,2018120208,Heinz Field,outdoor,Natural,Pittsburgh,
+440968,2018,2018120209,Raymond James Stadium,outdoor,Natural,Tampa,FL
+441672,2018,2018120210,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+442684,2018,2018120211,Nissan Stadium,outdoor,Natural,Nashville,TN
+443762,2018,2018120212,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+444862,2018,2018120213,CenturyLink Field,outdoor,Artificial,Seattle,WA
+445874,2018,2018120300,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+446798,2018,2018120600,Nissan Stadium,outdoor,Natural,Nashville,TN
+447722,2018,2018120900,New Era Field,outdoor,Artificial,Orchard Park NY,
+448734,2018,2018120901,Soldier Field,outdoor,Natural,Chicago,IL
+449636,2018,2018120902,FirstEnergy,outdoor,Natural,"Cleveland,Ohio",
+450450,2018,2018120903,Lambeau Field,outdoor,Artificial,Green Bay,WI
+451418,2018,2018120904,NRG Stadium,,Artificial,Houston,TX
+452210,2018,2018120905,Arrowhead Stadium,outdoor,Natural,Kansas City, MO
+453354,2018,2018120906,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+454410,2018,2018120907,Raymond James Stadium,outdoor,Natural,Tampa,FL
+455378,2018,2018120908,FedExField,outdoor,Natural,Landover,MD
+456434,2018,2018120909,StubHub Center,,Natural,Carson,CA
+457600,2018,2018120910,Levis Stadium,outdoor,Natural,Santa Clara,CA
+458656,2018,2018120911,State Farm Stadium,,Natural,Glendale,AZ
+459734,2018,2018120912,AT&T Stadium,indoor,Artificial,Arlington,Texas
+460658,2018,2018120913,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+461560,2018,2018121000,CenturyLink Field,outdoor,Artificial,Seattle,WA
+462704,2018,2018121300,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+463540,2018,2018121500,Metlife Stadium,outdoor,Artificial,East Rutherford,NJ
+464376,2018,2018121501,Broncos Stadium at Mile High,outdoor,Natural,Denver,CO
+465300,2018,2018121600,Mercedes-Benz Stadium,indoor,Artificial,Atlanta,GA
+466246,2018,2018121601,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+467346,2018,2018121602,New Era Field,outdoor,Artificial,Orchard Park NY,
+468534,2018,2018121603,Soldier Field,outdoor,Natural,Chicago,IL
+469414,2018,2018121604,Paul Brown Stadium,outdoor,Artificial,Cincinnati,OH
+470514,2018,2018121605,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+471548,2018,2018121606,TIAA Bank Field,,Natural,Jacksonville Florida,
+472516,2018,2018121607,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+473616,2018,2018121608,MetLife Stadium,,Artificial,East Rutherford,NJ
+474782,2018,2018121609,Levis Stadium,outdoor,Natural,Santa Clara,CA
+475992,2018,2018121610,Heinz Field,outdoor,Natural,Pittsburgh,PA
+476916,2018,2018121611,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,CA
+477884,2018,2018121700,Bank of America Stadium,outdoor,Natural,Charlotte,NC
+478896,2018,2018122200,Nissan Stadium,outdoor,Natural,Nashville,TN
+480106,2018,2018122201,StubHub Center,,Natural,Carson,CA
+480920,2018,2018122300,Lucas Oil Stadium,indoor,Artificial,Indianapolis,Ind.
+481800,2018,2018122302,Hard Rock Stadium,outdoor,Natural,Miami Gardens,Fla.
+482702,2018,2018122304,Bank of America Stadium,outdoor,Natural,Charlotte,NC
+483582,2018,2018122305,FirstEnergy,outdoor,Natural,"Cleveland,Ohio",
+484418,2018,2018122306,AT&T Stadium,indoor,Artificial,Arlington,Texas
+485320,2018,2018122307,Ford Field,indoor,Artificial,Detroit,
+486398,2018,2018122308,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+487674,2018,2018122309,MetLife Stadium,outdoor,Artificial,East Rutherford,NJ
+488356,2018,2018122310,Lincoln Financial Field,outdoor,Natural,Philadelphia,Pa.
+489060,2018,2018122311,State Farm Stadium,,Natural,Glendale,AZ
+490160,2018,2018122312,Levis Stadium,outdoor,Natural,Santa Clara,CA
+490974,2018,2018122313,Mercedes-Benz Superdome,,Artificial,New Orleans,LA
+491656,2018,2018122314,CenturyLink Field,outdoor,Artificial,Seattle,WA
+492778,2018,2018122400,Oakland-Alameda County Coliseum,outdoor,Natural,Oakland,CA
+493834,2018,2018123000,M&T Bank Stadium,outdoor,Natural,Baltimore,Md.
+494758,2018,2018123001,New Era Field,outdoor,Artificial,Orchard Park,NY
+495726,2018,2018123002,Lambeau Field,outdoor,Artificial,Green Bay,WI
+496716,2018,2018123003,NRG,,Artificial,Houston,Texas
+497420,2018,2018123004,Arrowhead Stadium,outdoor,Natural,Kansas City,MO
+498586,2018,2018123005,U.S. Bank Stadium,indoor,Artificial,Minneapolis,MN
+499642,2018,2018123006,Gillette Stadium,outdoor,Artificial,Foxborough,MA
+500632,2018,2018123007,Mercedes-Benz Superdome,,Artificial,New Orleans,
+501776,2018,2018123008,MetLife Stadium,,Artificial,East Rutherford,NJ
+502700,2018,2018123009,Heinz Field,outdoor,Natural,Pittsburgh,
+503404,2018,2018123010,Raymond James Stadium,outdoor,Natural,Tampa,FL
+504350,2018,2018123011,Nissan Stadium,outdoor,Natural,Nashville,TN
+505274,2018,2018123012,FedExField,outdoor,Natural,Landover,MD
+506132,2018,2018123013,Broncos Stadium at Mile High,outdoor,Natural,Denver,CO
+507188,2018,2018123014,Los Angeles Memorial Coliseum,outdoor,Natural,Los Angeles,Calif.
+508530,2018,2018123015,CenturyLink Field,outdoor,Artificial,Seattle,WA
